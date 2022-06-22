@@ -1,0 +1,9 @@
+.rowDiv {
+  display: flex;
+}
+
+.cellDiv {
+  flex-grow: 1;
+  aspect-ratio: 1/1;
+  border: 2px solid black;
+}
